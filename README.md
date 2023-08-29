@@ -1,1 +1,1 @@
-# Alguns projetos que fiz quando estava estudando MySQL
+ Alguns projetos que fiz quando estava estudando MySQL
